@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "tech-hiroba",
-  description: "好きなように作っていく技術専門掲示板",
+  description: "好きなように作っていくアプリケーション",
 };
 
 export default function RootLayout({
