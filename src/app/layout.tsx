@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "tech-hiroba",
-  description: "好きなように作っていくアプリケーション",
+  title: "study-tech-message-board",
+  description:
+    "Next.js + Hono + Supabase + Drizzleのサンプル掲示板アプリケーション",
 };
 
 export default function RootLayout({
